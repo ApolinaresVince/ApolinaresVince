@@ -3,7 +3,7 @@
 <!--
 **ApolinaresVince/ApolinaresVince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ifdeas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Hi, I am Vince Apolinares, a data analyst based in the philippines.
+I am moslty experienced in terms building dashboards and reports depending on the task given.
+
+I'm currently free lance and i would like to work on the insights and analyzing data.
+
+I'm proficient in using power bi, looker studio, excel and google sheet for data analysis. I have experience in handling queries through sql and big query.
+
+If you want to contact me, I can be contacted through my linkedin account.
