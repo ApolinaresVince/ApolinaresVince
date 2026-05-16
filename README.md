@@ -16,7 +16,7 @@ Here are some ifdeas to get you started:
 -->
 
 
-Hi, I am Vince Apolinares, a data analyst based in the philippines.<br/>
+Hi, I am Vince, a data analyst based in the philippines.<br/>
 I am moslty experienced in terms building dashboards and reports depending on the task given.<br/>
 
 I'm currently freelancing and i would like to work on the insights and analyzing data.<br/>
