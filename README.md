@@ -25,3 +25,5 @@ I'm proficient in using power bi, looker studio, excel and google sheet for data
 I have experience in handling queries through sql and big query.<br/>
 
 If you want to contact me, I can be contacted through my linkedin account.<br/>
+
+Porfolio of my Dashboards: https://drive.google.com/drive/folders/1OmOsnPz-xf6p49FhX1IGIXxFgkVUG8Nb?usp=sharing
